@@ -51,8 +51,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/HedyehRahmani/Loan-Eligibility-Verification-using-Classification.git
    ```
 
 2. Run the Python script to load the data, train the model, and evaluate the results:
